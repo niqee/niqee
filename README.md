@@ -11,7 +11,7 @@
 
  ##
   
- ### Know something about
+ ### I'm know something about
   
 <div style="display: inline_block"><br>
   <img align="center" alt="domiss-c++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
