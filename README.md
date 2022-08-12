@@ -1,7 +1,8 @@
 - 🧞‍♀️ Hello, I'm @DominiqueSS
+- 😸 Pronouns: She/Her
 - 😊 I’m interested in backend, machine learning, data science etc
 - 🤓 I’m currently learning machine learning and data science
-- 😸 Pronouns: She/Her
+
 
 <div align="center">
   <a href="https://github.com/DominiqueSS">
