@@ -28,12 +28,14 @@ Social media & how to contact me
 <p>
 <h1 align="center">
  About me 🦋
+ </h1>
+Atualmente procuro por uma oportunidade na àrea de TI. Sou formada em ADS pela Uninter e no momento curso uma pós de Ciência de dados e Inteliência artificial pela mesma instituição. Já tive experiência na área da radiologia e vendas mas acredito estar mais alinhada para àrea da programação. Sou trans, portanto: 
+-> <h>Pronouns: she/her.</h>
+
+ 
  </p>
  
-<p>
-< align="center">
- I'm ....
- </p>
+
 
 
  ##
