@@ -21,7 +21,19 @@ Social media & how to contact me
     
 </div>
 
+ ##
+  
+ ### 
 
+<p>
+<h1 align="center">
+ About me 🦋
+ </p>
+ 
+<p>
+< align="center">
+ I'm ....
+ </p>
 
 
  ##
