@@ -56,7 +56,7 @@ Atualmente procuro por uma oportunidade na àrea de TI. Sou formada em ADS pela 
   <img align="center" alt="domiss-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="domiss-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="domiss-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
- 
+  <img align="center" alt="domiss-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   
 </div>
 
