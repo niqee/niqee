@@ -8,7 +8,7 @@
   #### 
 <p>
 <h1 align="center">
-Social media & how to contact me
+Social media etc
 </p>
   
   <div> 
@@ -44,7 +44,7 @@ Atualmente procuro por uma oportunidade na àrea de TI. Sou formada em ADS pela 
  
  <p>
 <h1 align="center">
- I'm know something about that languages and tools 
+ Languages and tools 
  </p>
  
 <div style="display: inline_block"><br>
