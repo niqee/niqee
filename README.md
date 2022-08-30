@@ -68,6 +68,6 @@ Atualmente procuro por uma oportunidade na área de TI. Sou formada em ADS pela 
   <align="center">
   </p>
   <a href="https://github.com/DominiqueSS">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=dominiquess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquess&layout=compact&langs_count=7&theme=dark"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=niqee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niqee&layout=compact&langs_count=7&theme=dark"/>
 </div>
