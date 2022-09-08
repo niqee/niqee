@@ -30,7 +30,7 @@ Social media etc
  About me 🦋
  </h1>
 Atualmente procuro por uma oportunidade na área de TI. Sou formada em ADS pela Uninter e no momento curso uma pós de Ciência de dados e Inteligência artificial pela mesma instituição. Já tive experiência na área da radiologia e vendas mas acredito estar mais alinhada à área da programação/desenvolvimento. Sou trans, então por favor: 
--> <h>ELA/DELA</h> 🧞‍♀️
+-> <h>ELA/DELA</h>  🏳️‍⚧️ 
 
  
  </p>
