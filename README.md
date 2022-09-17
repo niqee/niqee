@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Dominique🧞‍♀️ <img src="" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Dominique 🙋‍♀️ <img src="" alt="" width="30"></h1>
 </p>
 
 
