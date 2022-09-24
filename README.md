@@ -16,7 +16,7 @@ Social media etc
   <a href = "https://twitter.com/desantanasan" > <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/desantanasan?label=%E3%83%84%E3%82%A4%E3%83%83%E3%82%BF%E3%83%BC&logo=twitter&style=for-the-badge" target="blank"></a>
   <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ddesantana7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=ddesantana7gmail&logoColor=white" target="_blank"></a>
  
     
 </div>
