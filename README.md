@@ -10,13 +10,13 @@
 <h1 align="center">
 Social media etc
 </p>
-  
+
   <div> 
   <p align="center">  
-  <a href = "https://twitter.com/desantanasan" > <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/desantanasan?label=%E3%83%84%E3%82%A4%E3%83%83%E3%82%BF%E3%83%BC&logo=twitter&style=for-the-badge" target="blank"></a>
+  <a href = "https://twitter.com/" > <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/desantanasan?label=%E3%83%84%E3%82%A4%E3%83%83%E3%82%BF%E3%83%BC&logo=twitter&style=for-the-badge" target="blank"></a>
   <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dominiquesantana@duck.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=ddesantana7gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/domissant" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ssantanadominique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=ddesantana7gmail&logoColor=white" target="_blank"></a>
  
     
 </div>
@@ -29,9 +29,12 @@ Social media etc
 <h1 align="center">
  About me 🦋
  </h1>
-Atualmente procuro por uma oportunidade na área de TI. Sou formada em ADS pela Uninter e no momento curso uma pós de Ciência de dados e Inteligência artificial pela mesma instituição. Já tive experiência na área da radiologia e vendas mas acredito estar mais alinhada à área da programação/desenvolvimento. 💜
-
- 
+Atualmente procuro por uma oportunidade na área de TI. Sou formada em ADS pela Uninter e no momento curso uma pós de Ciência de dados e Inteligência artificial pela mesma instituição. 
+Desenvolvedora em formação:  
+   - Back‑end com C# / .NET  
+   - Front‑end com HTML, CSS e JavaScript  
+   - APIs REST e arquiteturas modernas etc.
+  
  </p>
  
 
