@@ -29,11 +29,23 @@ Social media etc
 <h1 align="center">
  About me 🦋
  </h1>
-Atualmente procuro por uma oportunidade na área de TI. Sou formada em ADS pela Uninter e no momento curso uma pós de Ciência de dados e Inteligência artificial pela mesma instituição. 
-Desenvolvedora em formação:  
-   - Back‑end com C# / .NET  
-   - Front‑end com HTML, CSS e JavaScript  
-   - APIs REST e arquiteturas modernas etc.
+Sou formada em Análise e Desenvolvimento de Sistemas e também conclui uma pós-graduação em Ciência de Dados e Inteligência Artificial. Desde então, venho me dedicando ao aperfeiçoamento técnico e ao desenvolvimento de projetos pessoais na área de TI, com foco em desenvolvimento e dados.
+
+Minhas principais habilidades incluem:
+
+🖥️ Back-end: C# e .NET
+
+🌐 Front-end: HTML, CSS e JavaScript
+
+🔗 APIs RESTful: Criação, consumo e integração entre sistemas
+
+🗄️ Bancos de Dados: SQL Server e modelagem de dados relacionais
+
+☁️ AWS: Noções de serviços em nuvem como EC2, S3 e RDS
+
+🧩 Arquiteturas modernas: Padrões como MVC e princípios de desenvolvimento limpo
+
+Estou aberta a oportunidades em tecnologia, especialmente em ambientes que valorizem o aprendizado contínuo, a colaboração e o desenvolvimento de soluções eficientes e bem estruturadas.
   
  </p>
  
